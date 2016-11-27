@@ -7,5 +7,5 @@ Esta é uma aplicação WebService exemplo desenvolvida para a disciplina de Eng
 ###### Matheus Stigger
 
 ### Disciplina
-###### Engenharia de Software
+###### Engenharia de Software 3
 ###### Faculdade de Tecnologia Senac Pelotas
